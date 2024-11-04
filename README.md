@@ -32,5 +32,6 @@ Sou um desenvolvedor júnior focado em desenvolvimento de software e qualidade. 
 🔗 **Contatos**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josepedrovieira-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josepedrovieira)  
 📫 vieirasilvajosepedro@gmail.com
+
 💬 **Vamos nos conectar!** Estou sempre aberto a trocar ideias, colaborar em projetos inovadores e explorar novas oportunidades de aprendizado.
 
