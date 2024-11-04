@@ -36,7 +36,6 @@ Sou um desenvolvedor júnior focado em desenvolvimento de software e qualidade. 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejodrope&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejodropea&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosePedroVieiraSilva&layout=compact)
 
 💬 **Vamos nos conectar!** Estou sempre aberto a trocar ideias, colaborar em projetos inovadores e explorar novas oportunidades de aprendizado.
