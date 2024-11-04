@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o José Pedro 
+# 👋 Olá! Eu sou o José Pedro Vieira Silva
 
 **Desenvolvedor Júnior | Engenheiro de Software em formação | Apaixonado por desafios e soluções**
 
@@ -32,6 +32,11 @@ Sou um desenvolvedor júnior focado em desenvolvimento de software e qualidade. 
 🔗 **Contatos**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josepedrovieira-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josepedrovieira)  
 📫 vieirasilvajosepedro@gmail.com
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejodropea&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosePedroVieiraSilva&layout=compact)
 
 💬 **Vamos nos conectar!** Estou sempre aberto a trocar ideias, colaborar em projetos inovadores e explorar novas oportunidades de aprendizado.
 
