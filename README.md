@@ -1,5 +1,3 @@
-# 👋 Olá! Eu sou o José Pedro Vieira Silva
-
 **Desenvolvedor Júnior | Engenheiro de Software em formação | Apaixonado por desafios e soluções**
 
 🌱 **Sobre Mim**  
