@@ -14,19 +14,6 @@ Sou um desenvolvedor júnior focado em desenvolvimento de software e qualidade. 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-📈 **Experiência Profissional**
-- **Desenvolvedor Júnior na Dasa**: Focado em desenvolvimento com Kotlin e gerenciamento de bancos de dados PostgreSQL.
-- **Analista de Suporte e QA na OceanTek**: Atuei com suporte a clientes e execução de testes automatizados, incluindo Cucumber e Selenium.
-- **Service Desk Analyst na Capgemini**: Prestei suporte técnico em sistemas internos, garantindo a satisfação e continuidade dos serviços.
-
-🎓 **Educação**
-- **Engenharia de Software** - Universidade da Região de Joinville (2022 - 2026)
-- **Técnico em Agroindústria** - Instituto Federal de Educação, Ciência e Tecnologia do Ceará
-
-🌐 **Idiomas**
-- Português (Nativo)
-- Inglês (Intermediário - leitura e escrita)
-
 🔗 **Contatos**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josepedrovieira-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josepedrovieira)  
 📫 vieirasilvajosepedro@gmail.com
