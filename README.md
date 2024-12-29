@@ -1,6 +1,5 @@
 **Desenvolvedor Júnior | Engenheiro de Software em formação | Apaixonado por desafios e soluções**
 
-🌱 **Sobre Mim**  
 Sou um desenvolvedor júnior focado em desenvolvimento de software e qualidade. Minha carreira começou no suporte técnico e QA, onde aprendi a importância de uma comunicação eficaz e um trabalho em equipe alinhado. Atualmente, trabalho com desenvolvimento de software e estou sempre em busca de novas formas de superar expectativas e entregar resultados que façam a diferença!
 
 🚀 **Habilidades Técnicas**
