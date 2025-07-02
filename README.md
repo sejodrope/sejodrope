@@ -25,5 +25,5 @@ Sou comunicativo, colaborativo e tenho facilidade de adaptação. Busco constant
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejodrope&layout=compact)
 
-💬 **Vamos nos conectar!** Estou sempre aberto a trocar ideias, colaborar em projetos inovadores e explorar novas oportunidades de aprendizado.
+💬 Estou sempre aberto a trocar ideias, colaborar em projetos inovadores e explorar novas oportunidades de aprendizado.
 
